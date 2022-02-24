@@ -3,6 +3,6 @@ This repository contains implementations of models to perform the document class
 
 The source code from the paper's authors is available at https://github.com/peluz/VICTOR-dataset
 
-The deep learning models in this repository were implemented in PyTorch (the paper's authors have been used Keras).
+The deep learning models in this repository were implemented in PyTorch (the paper's authors utilized Keras).
 
 The Victor dataset contais documents from Brazilian Federal Supreme Court (aka STF) lawsuits. The acess to it can be required at http://www.gpam.unb.br/datasets/victor
